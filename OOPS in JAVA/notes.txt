@@ -1,0 +1,31 @@
+Java does not have "Desctructor" because it has garbage collector
+
+POLYMORPHISM - Doing the same job in different ways in JAVA is said to be POLYMORPHISM.
+Types:
+1. Function Overloading (Compile Type) - Creating different functions of same name i.e. 
+functions performing different tasks having same name.
+2. Function Overriding (Run Type)
+
+
+INHERITANCE:
+There are four kinds of INHERITANCE
+1. Single Level Inheritance - one base class and one derived class.
+2. Multi level - one base class and multiple latter derived classes.
+3. Heirarchiel level - Multiple derived classes inherit the same(single) base class.
+4. Hybrid level - Hybrid inheritance in Java is a combination of two or more types of inheritances. 
+The purpose of using hybrid inheritance in Java is to modularize the codebase into well-defined classes 
+and provide code reusability.
+
+ACCESS MODIFIERS:
+
+1.Public - This information can be accessed by anybody and can be accessed in a different package by anyone.
+2.Private - can only be accessed within the class and not outside the class.
+3.Protected - only the sub classes of different packages can access.
+4.Default - Every parameter or function is Default by default unless something is added before it, it can be accessed
+by all in the same package but not by the other packages.
+
+ENCAPSULATION
+To combine Data and it's function into a single Entity.
+
+ABSTRACTION 
+It is the process of showing important data to the user and hiding the unnecessary data.
